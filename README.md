@@ -1,4 +1,4 @@
-*This is the database of the IBM employees. Based on the attributes of the employees given,predict which employees are likely to eave the company.Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’.
+*This is the database of the IBM employees. Based on the attributes of the employees given,predict which employees are likely to leave the company.Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’.
 
 
 
